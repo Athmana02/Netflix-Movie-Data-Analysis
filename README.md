@@ -18,16 +18,15 @@ This project explores a dataset of Netflix shows using Python and Jupyter Notebo
 - Created correlation heatmaps to explore relationships between features
 
 ## 📁 Dataset
-Used the Netflix dataset from [Kaggle](https://www.kaggle.com/shivamb/netflix-shows)
+Used the Netflix dataset from [here](https://drive.google.com/file/d/1Dsv18yT67gi4-Ekxk3mNuBFOPs_AsVW1/view?usp=sharing)
 
 ## 🚀 How to Run
 Clone the repo and open `netflix_analysis.ipynb` in Jupyter Notebook.
 
-## 📷 Sample Output
-![screenshot](link_to_image_if_you_have_one)
+
 
 ---
 
 ## 📬 Contact
-Feel free to connect or reach out on [LinkedIn](https://linkedin.com/in/yourusername)
+Feel free to connect or reach out on [LinkedIn](www.linkedin.com/in/athmanaaa)
 
